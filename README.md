@@ -15,7 +15,6 @@ Just I'm looking to practice everything I learned.</h3>
 
 <br>
 
-- 🌱 I’m currently learning **Course from Hack a Boss**
 
 - 📫 How to reach me **arg.uri.solanes@gmail.com**
 
